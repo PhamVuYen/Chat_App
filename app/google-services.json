@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104085420231",
+    "project_id": "chat-app-b9858",
+    "storage_bucket": "chat-app-b9858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104085420231:android:c4e85e9ada0a2b61c0e6e2",
+        "android_client_info": {
+          "package_name": "phamvuyen.demo.appchat20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104085420231-53jas0fc29bi9dtbioucnchgbn09qgmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6UqGE92cm_Ng_-rw16S5u9x0A05iZsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104085420231-53jas0fc29bi9dtbioucnchgbn09qgmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
